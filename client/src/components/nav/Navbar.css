@@ -1,0 +1,21 @@
+nav {
+    background: rgba(0,0,0,0.3);
+    height: 40px;
+    padding: 0.7rem 1.7rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.loggedIN{
+    background-color: cadetblue;
+    color: white;
+}
+
+.navbar-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 40px;
+    display: flex;
+    padding: 0.7rem 1.7rem;
+  }
